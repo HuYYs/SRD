@@ -1,0 +1,154 @@
+{
+  "SRD-Index": {
+    "title": "SRD Index",
+    "body": [
+      {
+        "title": "About",
+        "type": "",
+        "paragraph": [
+          "Question: What is this <measure>?",
+          "Add a few sentences on the importance of this measure in relation to social justice, equality and equity, community health, and overall quality of life."
+        ]
+      },
+      {
+        "title": "Why is <measure> important to structural and institutional racism and discrimination (SRD)?",
+        "type": "",
+        "paragraph": [
+          "Add national level data to show inequity and gaps between Black and White populations",
+          "Question: What is the expected relation of <measure> to SRD? ",
+          "Add references"
+        ]
+      },
+      {
+        "title": "How is <measure> calculated? Data",
+        "type": "-",
+        "paragraph": [
+          "List the indicators (aka variables) ",
+          "Mention and describe the Data Source(s), mention whether publicly available or needs a subscription, add references, copyright statements, include hyperlinks to access the corresponding data pages directly.",
+          "Describe type of data, scale, and temporal availability of data"
+        ]
+      },
+      {
+        "title": "Methodology",
+        "type": "-",
+        "paragraph": [
+          "Detail the methods used to calculate this measure. Include descriptions of the techniques, tools, and processes. ",
+          "Missing Data calculation",
+          "Was this measure recoded to change directional relationship with SRD index?"
+        ]
+      },
+      {
+        "title": "Limitations",
+        "type": "-",
+        "paragraph": [
+          "data and methodological constraints",
+          "Additional notes"
+        ]
+      },
+      {
+        "title": "Brief Summary of <Measure>",
+        "type": "-",
+        "paragraph": [
+          "Descriptive statistics Table by Year: Mean, Median, Range, Max (Enter the County name, State Name), Min (Enter the County name, State Name)",
+          "A line chart to show temporal trend (indicators and measures on the same chart, indicators on the y1 axis, and gap on the y2 axis)",
+          "One map to show four choropleth maps for 1990, 2000, 2010, and 2020 keeping the legend and color same",
+          "Correlation Table with Income inequality (ICE-Income), income and racial segregation (ICE-Income-Race), and Medically underserved area/population scores (MUA/P), and Persistent Poverty for the latest year (i.e., 2020)"
+        ]
+      },
+      {
+        "title": "Terms to use",
+        "type": "-",
+        "paragraph": [
+          "Indicators (e.g., Median Income for Black Households, Median Income for White Households)",
+          "Measures (e.g., Gap between Median Income for Black Households vs Median Income for White Households)",
+          "Dimensions (e.g., Income and Wealth)",
+          "Multidimensional SRD index"
+        ]
+      }
+    ]
+  },
+  "Racial-Segregation": {
+    "title": "",
+    "body": ""
+  },
+  "Housing": {
+    "title": "",
+    "body": ""
+  },
+  "Income-and-Wealth": {
+    "title": "",
+    "body": ""
+  },
+  "Healthcare-Resources": {
+    "title": "",
+    "body": ""
+  },
+  "Crime-and-Incarceration": {
+    "title": "",
+    "body": ""
+  },
+  "Concentration-of-Blacks-vs-Whites": {
+    "title": "",
+    "body": ""
+  },
+  "Racial-Diversity": {
+    "title": "",
+    "body": ""
+  },
+  "Home-Mortgage-Loan-Denial": {
+    "title": "",
+    "body": ""
+  },
+  "Home-Ownership": {
+    "title": "",
+    "body": ""
+  },
+  "Median-Household-Income": {
+    "title": "",
+    "body": ""
+  },
+  "Unemployment": {
+    "title": "",
+    "body": ""
+  },
+  "Low-income-Blacks-vs-Whites": {
+    "title": "",
+    "body": ""
+  },
+  "Primary-Care": {
+    "title": "",
+    "body": ""
+  },
+  "Mental-Health-Care": {
+    "title": "",
+    "body": ""
+  },
+  "Dental-Health-Care": {
+    "title": "",
+    "body": ""
+  },
+  "With-no-Health-Insurance": {
+    "title": "",
+    "body": ""
+  },
+  "Violent-Crime-Arrests": {
+    "title": "",
+    "body": ""
+  },
+  "Property-Crime-Arrests": {
+    "title": "",
+    "body": ""
+  },
+  "Incarceration": {
+    "title": "",
+    "body": ""
+  },
+  "Homicide-Fatalities": {
+    "title": "",
+    "body": ""
+  },
+  "Firearm-Fatalities": {
+    "title": "",
+    "body": ""
+  }
+}
